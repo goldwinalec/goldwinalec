@@ -4,7 +4,6 @@ Hi 👋 My name is Alina Gladkova
 I'm a Front-End Developer
 -------------------------
 
-I've been learning to code for 2 years and I'm currently looking for a job!
 
 * 🌍  I'm based in Batumi, Georgia
 * 🖥️  See my portfolio at [GoldwinAlec](http://goldwinalec.netlify.app)
